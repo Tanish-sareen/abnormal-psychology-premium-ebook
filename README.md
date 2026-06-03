@@ -2,6 +2,7 @@
 
 An immersive and visually rich educational eBook built entirely with HTML and CSS.
 
+live at https://tanish-sareen.github.io/abnormal-psychology-premium-ebook/
 ---
 
 ## 📖 About
